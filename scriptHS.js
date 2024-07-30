@@ -590,7 +590,12 @@ const palabras = [
         { palabra: "POTENCIALIDAD", pista: "Capacidad de desarrollo" },
         { palabra: "VERSATILIDAD", pista: "Adaptabilidad" },
         { palabra: "SENSIBILIDAD", pista: "Capacidad de sentir" },
-        { palabra: "CIVILIZACION", pista: "Sociedad avanzada" },  
+        { palabra: "CIVILIZACION", pista: "Sociedad avanzada" },
+        { palabra: "EFICAZ", pista: "Que produce el efecto deseado" },
+        { palabra: "INTELECTUAL", pista: "Relacionado con la mente o la inteligencia" },
+        { palabra: "CONQUISTA", pista: "Acción de ganar algo con esfuerzo" },
+        { palabra: "ADAPTACION", pista: "Proceso de ajuste a nuevas condiciones" },
+        { palabra: "COHERENTE", pista: "Que tiene lógica o sentido" }  
 ];
 
 function seleccionarPalabraAleatoria() {
